@@ -1,18 +1,18 @@
 {
   "packageName": "com.acero.sshpro",
-  "versionCode": 42,
-  "versionName": "0.0.42",
-  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v42\/ACERO-J-TUNNEL-v42.apk.part001",
+  "versionCode": 52,
+  "versionName": "0.0.52",
+  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v52\/ACERO-J-TUNNEL-v52.apk.part001",
   "parts": [
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v42\/ACERO-J-TUNNEL-v42.apk.part001",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v42\/ACERO-J-TUNNEL-v42.apk.part002",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v42\/ACERO-J-TUNNEL-v42.apk.part003",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v42\/ACERO-J-TUNNEL-v42.apk.part004",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v42\/ACERO-J-TUNNEL-v42.apk.part005"
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v52\/ACERO-J-TUNNEL-v52.apk.part001",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v52\/ACERO-J-TUNNEL-v52.apk.part002",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v52\/ACERO-J-TUNNEL-v52.apk.part003",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v52\/ACERO-J-TUNNEL-v52.apk.part004",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v52\/ACERO-J-TUNNEL-v52.apk.part005"
   ],
-  "sha256": "82ad0677fe7f892a5704d1f1a02a2fbd5ae0c00f8718cad483ade1d14318a88d",
-  "size": 58457580,
+  "sha256": "79364ec74e962934917618e75af70a2f4e3a0389e471484b30ac46782c21247a",
+  "size": 58519688,
   "mandatory": true,
   "releaseNotes": "",
-  "uploadedAt": "2026-10-31T21:16:43Z"
+  "uploadedAt": "2026-11-02T00:43:42Z"
 }
