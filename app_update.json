@@ -1,18 +1,18 @@
 {
   "packageName": "com.acero.sshpro",
-  "versionCode": 59,
-  "versionName": "0.0.59",
-  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v59\/ACERO-J-TUNNEL-v59.apk.part001",
+  "versionCode": 66,
+  "versionName": "0.0.66",
+  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v66\/ACERO-J-TUNNEL-v66.apk.part001",
   "parts": [
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v59\/ACERO-J-TUNNEL-v59.apk.part001",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v59\/ACERO-J-TUNNEL-v59.apk.part002",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v59\/ACERO-J-TUNNEL-v59.apk.part003",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v59\/ACERO-J-TUNNEL-v59.apk.part004",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v59\/ACERO-J-TUNNEL-v59.apk.part005"
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v66\/ACERO-J-TUNNEL-v66.apk.part001",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v66\/ACERO-J-TUNNEL-v66.apk.part002",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v66\/ACERO-J-TUNNEL-v66.apk.part003",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v66\/ACERO-J-TUNNEL-v66.apk.part004",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v66\/ACERO-J-TUNNEL-v66.apk.part005"
   ],
-  "sha256": "d82397ce51a9929d06f86d5db150e7937c6cdf812944c6cfe9e3c832200723db",
-  "size": 58528050,
+  "sha256": "f8a580819841fb026354fb5829754732969b878bf9065e7dadc0a0528558f051",
+  "size": 58537513,
   "mandatory": true,
-  "releaseNotes": "✅ NEW FEATURES ADDED\n✅ ENHANCE PERFORMANCE \n\nDev: Jerald Acero",
-  "uploadedAt": "2026-11-02T08:48:33Z"
+  "releaseNotes": "What's new in v0.0.66\n\n- New Subscription page: plans now appear as swipeable cards with BEST VALUE, CHEAPEST and MOST POPULAR badges.\n- Monthly \/ Annual switch: plans are grouped so they are easier to compare.\n- Smoother swiping: each swipe moves one card with a smooth glide. Tap a dot to jump to any plan.\n- Clearer plan details: each card shows the price, the price per day, how much you save, and what is included.\n- Improved Hotspot page: the \"Show proxy IP and port\" window has a cleaner look with a PROXY ON \/ OFF badge.\n- Copy buttons: copy the proxy IP or the port in one tap.\n- Better messages: if the IP is not available, the window tells you to turn on Mobile Hotspot first.\n- Small fixes: general improvements and polish.",
+  "uploadedAt": "2026-11-03T03:01:12Z"
 }
