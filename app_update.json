@@ -1,18 +1,18 @@
 {
   "packageName": "com.acero.sshpro",
-  "versionCode": 69,
-  "versionName": "0.0.69",
-  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v69\/ACERO-J-TUNNEL-v69.apk.part001",
+  "versionCode": 72,
+  "versionName": "0.0.72",
+  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part001",
   "parts": [
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v69\/ACERO-J-TUNNEL-v69.apk.part001",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v69\/ACERO-J-TUNNEL-v69.apk.part002",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v69\/ACERO-J-TUNNEL-v69.apk.part003",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v69\/ACERO-J-TUNNEL-v69.apk.part004",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v69\/ACERO-J-TUNNEL-v69.apk.part005"
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part001",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part002",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part003",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part004",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part005"
   ],
-  "sha256": "a30d996cb82a08486fbd65d09db9653cd38eb6aaeba46d5689d336488d92bcef",
-  "size": 58847185,
+  "sha256": "5288a8d0301907dac53a42044a7c2478e621970449dd3ecae52e6cfc59093873",
+  "size": 58864737,
   "mandatory": true,
-  "releaseNotes": "What's new in ACERO J-TUNNEL\n\n• Official payment logos: GoTyme, GCash, Maya, PayPal, BDO, BPI, UnionBank, Metrobank and ShopeePay now show their real logos.\n• Tap to copy: tap the account name or account number on the payment screen to copy it. A \"Copied\" message shows up.\n• Easier to read: long account names in Choose payment method now wrap to two lines instead of being cut off.",
-  "uploadedAt": "2026-11-04T07:50:04Z"
+  "releaseNotes": "- Referral code field on the login page (optional)\n- Your code is linked automatically after login\n- First sale now earns the referrer a 40% commission automatically\n- Referral codes work even if the owner never opened the Referral page",
+  "uploadedAt": "2026-11-07T22:30:04Z"
 }
