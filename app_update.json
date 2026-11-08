@@ -1,18 +1,18 @@
 {
   "packageName": "com.acero.sshpro",
-  "versionCode": 72,
-  "versionName": "0.0.72",
-  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part001",
+  "versionCode": 78,
+  "versionName": "0.0.78",
+  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v78\/ACERO-J-TUNNEL-v78.apk.part001",
   "parts": [
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part001",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part002",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part003",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part004",
-    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v72\/ACERO-J-TUNNEL-v72.apk.part005"
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v78\/ACERO-J-TUNNEL-v78.apk.part001",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v78\/ACERO-J-TUNNEL-v78.apk.part002",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v78\/ACERO-J-TUNNEL-v78.apk.part003",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v78\/ACERO-J-TUNNEL-v78.apk.part004",
+    "https:\/\/raw.githubusercontent.com\/JERALD20\/ACERO-J-TUNNEL-APP-UPDATER-\/refs\/heads\/main\/v78\/ACERO-J-TUNNEL-v78.apk.part005"
   ],
-  "sha256": "5288a8d0301907dac53a42044a7c2478e621970449dd3ecae52e6cfc59093873",
-  "size": 58864737,
+  "sha256": "f67b93f469b4856f1bc038dae9160784a3d32ef589d9411f16e6408bdf0b3aea",
+  "size": 58881299,
   "mandatory": true,
-  "releaseNotes": "- Referral code field on the login page (optional)\n- Your code is linked automatically after login\n- First sale now earns the referrer a 40% commission automatically\n- Referral codes work even if the owner never opened the Referral page",
-  "uploadedAt": "2026-11-07T22:30:04Z"
+  "releaseNotes": "What's new in 0.0.78\n\n- Instant notifications: you now get alerts within seconds instead of waiting up to 15 minutes.\n- Account alerts: banned, frozen, paused, active again, extended, ending soon and ended.\n- Referral alerts: new referral and new commission.\n- Withdrawal alerts: pending, paid and rejected.\n- Starts by itself after you log in, after a restart and after an update.\n- A small \"Live notifications are on\" notice stays in your notification bar. This is normal and keeps alerts instant.\n- Tip: allow notifications and turn off battery optimization for this app so alerts keep coming while the screen is off.",
+  "uploadedAt": "2026-11-08T03:39:03Z"
 }
